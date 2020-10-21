@@ -8,6 +8,6 @@ module.exports = {
   /* Your site config here */
   plugins: [
     'gatsby-ipfs-web-wallet',
-    'gatsby-plugin-bch-tx-history'
+    require.resolve('../gatsby-plugin-bch-split')
   ]
 }

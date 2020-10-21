@@ -4,9 +4,9 @@
 */
 
 const config = {
-  title: 'Wallet Demo',
-  titleShort: 'Demo',
-  balanceText: 'BCH Balance',
+  title: 'Split Coins',
+  titleShort: 'Split',
+  balanceText: 'ABC Balance',
   balanceIcon: 'fab-bitcoin'
 }
 
