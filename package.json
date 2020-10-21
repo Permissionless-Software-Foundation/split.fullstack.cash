@@ -1,6 +1,6 @@
 {
-  "name": "bch-wallet-starter",
-  "description": "A BCH web wallet starter for Gatsby.",
+  "name": "split.fullstack.cash",
+  "description": "A Gatsby web app for splitting Bitcoin Cash and SLP tokens.",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Chris Troutner <chris.troutner@gmail.com>",
@@ -21,7 +21,7 @@
   "dependencies": {
     "gatsby": "^2.24.82",
     "gatsby-ipfs-web-wallet": "^1.11.4",
-    "gatsby-plugin-bch-split": "Permissionless-Software-Foundation/gatsby-plugin-bch-split#ct-unstable"
+    "gatsby-plugin-bch-split": "^1.0.0"
   },
   "repository": {
     "type": "git",
