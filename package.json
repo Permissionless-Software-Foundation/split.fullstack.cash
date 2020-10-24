@@ -21,7 +21,7 @@
   "dependencies": {
     "gatsby": "^2.24.82",
     "gatsby-ipfs-web-wallet": "^1.11.4",
-    "gatsby-plugin-bch-split": "Permissionless-Software-Foundation/gatsby-plugin-bch-split#ct-unstable"
+    "gatsby-plugin-bch-split": "Permissionless-Software-Foundation/gatsby-plugin-bch-split#master"
   },
   "repository": {
     "type": "git",

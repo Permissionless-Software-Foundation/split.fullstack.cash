@@ -8,7 +8,7 @@ module.exports = {
   /* Your site config here */
   plugins: [
     'gatsby-ipfs-web-wallet',
-    require.resolve('../gatsby-plugin-bch-split')
-    // 'gatsby-plugin-bch-split'
+    // require.resolve('../gatsby-plugin-bch-split')
+    'gatsby-plugin-bch-split'
   ]
 }
