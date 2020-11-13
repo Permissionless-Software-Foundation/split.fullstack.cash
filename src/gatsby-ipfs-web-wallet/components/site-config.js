@@ -6,7 +6,7 @@
 const config = {
   title: 'Split Coins',
   titleShort: 'Split',
-  balanceText: 'ABC Balance',
+  balanceText: 'BCHN Balance',
   balanceIcon: 'fab-bitcoin'
 }
 
