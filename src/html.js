@@ -19,7 +19,7 @@ export default function HTML (props) {
         <script src='https://unpkg.com/minimal-slp-wallet-web' />
 
         {/* bch-token-split */}
-        <script src='https://unpkg.com/bch-token-split@1.2.5' />
+        <script src='https://unpkg.com/bch-token-split@1.2.8' />
 
         {props.headComponents}
       </head>
